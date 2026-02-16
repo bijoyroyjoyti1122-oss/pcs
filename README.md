@@ -6,10 +6,11 @@
 
 Watch **10,000+** free live TV channels from around the world in one place.
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15.5-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](#license)
+[![GitHub](https://img.shields.io/github/stars/devSahinur/ALLtvLive?style=social)](https://github.com/devSahinur/ALLtvLive)
 [![Live Demo](https://img.shields.io/badge/Live-alltvlive.vercel.app-00ff9d?logo=vercel)](https://alltvlive.vercel.app)
 
 **[🔴 Live Demo → alltvlive.vercel.app](https://alltvlive.vercel.app)**
@@ -39,7 +40,7 @@ Watch **10,000+** free live TV channels from around the world in one place.
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
+- **Framework:** [Next.js 15.5](https://nextjs.org/) (App Router)
 - **Language:** [TypeScript](https://typescriptlang.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)
 - **State:** [Zustand](https://zustand-demo.pmnd.rs/)
@@ -90,8 +91,8 @@ alltvlive/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/alltvlive.git
-cd alltvlive
+git clone https://github.com/devSahinur/ALLtvLive.git
+cd ALLtvLive
 
 # Install dependencies
 npm install
@@ -120,7 +121,7 @@ The easiest way to deploy ALLtvLive:
 
 No environment variables needed — the app uses public APIs.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/devSahinur/ALLtvLive)
 
 ## 📡 Data Source
 
@@ -169,6 +170,8 @@ ALLtvLive does not host or provide any video content. It aggregates publicly ava
 
 <div align="center">
 
-**Built with ❤️ by ALLtvLive**
+**Built with ❤️ by [devSahinur](https://github.com/devSahinur)**
+
+[GitHub](https://github.com/devSahinur/ALLtvLive) · [Live Demo](https://alltvlive.vercel.app) · [Report Bug](https://github.com/devSahinur/ALLtvLive/issues)
 
 </div>
