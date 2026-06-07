@@ -35,7 +35,7 @@ export function HomeView({
         />
       </section>
 
-      {/* All Live TV */}
+      {/* PCS COMPUTER */}
       <section>
         <ChannelGrid
           channels={channels}
