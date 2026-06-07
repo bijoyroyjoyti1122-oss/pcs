@@ -1,5 +1,5 @@
 "use client";
-
+import { Facebook } from "lucide-react";
 import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -25,7 +25,15 @@ interface SidebarProps {
   categories: Category[];
   languages: Language[];
 }
-
+<a
+  href="https://www.facebook.com/Proshanto229"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center gap-3 rounded-lg px-3 py-2 text-muted-foreground transition-all hover:text-primary hover:bg-muted"
+>
+  <Facebook className="h-4 w-4" />
+  <span>Facebook</span>
+</a>
 export function Sidebar({ countries, categories, languages }: SidebarProps) {
   const {
     sidebarOpen,
