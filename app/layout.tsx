@@ -7,20 +7,20 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ALLtvLive - Free Live TV Channels",
+  title: "PCS COMPUTER - Free Live TV Channels",
   description:
     "Watch thousands of free live TV channels from around the world.",
   keywords: ["iptv", "live tv", "streaming", "free tv", "channels"],
   openGraph: {
-    title: "ALLtvLive - Free Live TV Channels",
+    title: "PCS COMPUTER - Free Live TV Channels",
     description:
       "Watch thousands of free live TV channels from around the world.",
     type: "website",
-    siteName: "ALLtvLive",
+    siteName: "PCS COMPUTER",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ALLtvLive - Free Live TV Channels",
+    title: "PCS COMPUTER - Free Live TV Channels",
     description:
       "Watch thousands of free live TV channels from around the world.",
   },
