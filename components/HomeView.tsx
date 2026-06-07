@@ -40,7 +40,7 @@ export function HomeView({
         <ChannelGrid
           channels={channels}
           isLoading={isLoading}
-          title="Live TV"
+          title="PCS COMPUTER"
           pageSize={20}
           showLoadMore={true}
         />
