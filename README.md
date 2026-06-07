@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 ALLtvLive
+# 📺 PCS COMPUTER
 
 ### Free Live TV Channels — Anytime, Anywhere
 
@@ -13,7 +13,7 @@ Watch **10,000+** free live TV channels from around the world in one place.
 [![GitHub](https://img.shields.io/github/stars/devSahinur/ALLtvLive?style=social)](https://github.com/devSahinur/ALLtvLive)
 [![Live Demo](https://img.shields.io/badge/Live-alltvlive.vercel.app-00ff9d?logo=vercel)](https://alltvlive.vercel.app)
 
-**[🔴 Live Demo → alltvlive.vercel.app](https://alltvlive.vercel.app)**
+
 
 ---
 
@@ -36,7 +36,7 @@ Watch **10,000+** free live TV channels from around the world in one place.
 
 ## 🖼️ Screenshots
 
-> Visit the live app to see ALLtvLive in action.
+> Visit the live app to see PCS in action.
 
 ## 🛠️ Tech Stack
 
@@ -164,14 +164,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ⚠️ Disclaimer
 
-ALLtvLive does not host or provide any video content. It aggregates publicly available IPTV streams indexed by the [iptv-org](https://github.com/iptv-org/iptv) project. All streams are provided by third parties and may be subject to their respective terms of service.
+PCS does not host or provide any video content. It aggregates publicly available IPTV streams indexed by the [iptv-org](https://github.com/iptv-org/iptv) project. All streams are provided by third parties and may be subject to their respective terms of service.
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by [devSahinur](https://github.com/devSahinur)**
-
-[GitHub](https://github.com/devSahinur/ALLtvLive) · [Live Demo](https://alltvlive.vercel.app) · [Report Bug](https://github.com/devSahinur/ALLtvLive/issues)
 
 </div>
