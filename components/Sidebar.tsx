@@ -112,7 +112,7 @@ export function Sidebar({ countries, categories, languages }: SidebarProps) {
                 <Tv className="h-5 w-5 text-neon" />
               </div>
               <span className="font-bold text-lg">
-                ALL<span className="text-neon">tvLive</span>
+                PCS<span className="text-neon">COMPUTER</span>
               </span>
             </div>
             <Button
@@ -286,7 +286,7 @@ export function Sidebar({ countries, categories, languages }: SidebarProps) {
           {/* Footer */}
           <div className="p-4 border-t border-border">
             <p className="text-[10px] text-muted-foreground text-center">
-              Powered by iptv-org &middot; ALLtvLive
+              Powered by iptv-org &middot; PCS COMPUTER
             </p>
           </div>
         </div>
